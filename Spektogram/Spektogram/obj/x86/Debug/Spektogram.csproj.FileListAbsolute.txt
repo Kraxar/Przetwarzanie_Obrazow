@@ -1,0 +1,45 @@
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\bin\Debug\Spektogram.exe.config
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\bin\Debug\Spektogram.exe
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\bin\Debug\Spektogram.pdb
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\bin\Debug\NAudio.dll
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csprojAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.Form1.resources
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.GenerateResource.cache
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.CopyComplete
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.exe
+C:\Users\Krzysztof\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.pdb
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\bin\Debug\Spektogram.exe.config
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\bin\Debug\Spektogram.exe
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\bin\Debug\Spektogram.pdb
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csprojAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\obj\x86\Debug\Spektogram.Form1.resources
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\obj\x86\Debug\Spektogram.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.GenerateResource.cache
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.CopyComplete
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\obj\x86\Debug\Spektogram.exe
+C:\Users\Krzysztof\Desktop\testttt\Spektogram\Spektogram\obj\x86\Debug\Spektogram.pdb
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\bin\Debug\Spektogram.exe.config
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\bin\Debug\Spektogram.exe
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\bin\Debug\Spektogram.pdb
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csprojAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\obj\x86\Debug\Spektogram.Form1.resources
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\obj\x86\Debug\Spektogram.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.GenerateResource.cache
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.CoreCompileInputs.cache
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.CopyComplete
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\obj\x86\Debug\Spektogram.exe
+C:\Users\Krzysztof\Desktop\testujemy\Krzysztof Ptak - Projekty\Spektogram\Spektogram\obj\x86\Debug\Spektogram.pdb
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\bin\Debug\Spektogram.exe.config
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\bin\Debug\Spektogram.exe
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\bin\Debug\Spektogram.pdb
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csprojAssemblyReference.cache
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.Form1.resources
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.Properties.Resources.resources
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.GenerateResource.cache
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.CoreCompileInputs.cache
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.csproj.CopyComplete
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.exe
+C:\Users\Olaf\Desktop\Spektogram\Spektogram\obj\x86\Debug\Spektogram.pdb
